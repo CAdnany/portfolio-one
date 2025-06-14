@@ -18,6 +18,43 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## Development & Labs:
+ 
+---
+
+### **File Permissions in Linux**
+
+- Reviewed and modified incorrect file and directory permissions within the projects directory to align with organizational access policies.
+- Enhanced overall system security by enforcing proper user authorization levels in a Linux environment.
+    
+---
+
+### **Python – IP Allow List Automation**
+
+- Developed a Python script to automate the removal of outdated or unauthorized IP addresses from the `allow_list.txt` file.
+- Improved access control efficiency by reducing manual intervention in file updates.
+    
+---
+
+### **Applying Filters to SQL Queries**
+
+- Utilized SQL query filters to audit and investigate potential security issues within employee systems.
+- Strengthened system defenses by filtering database records to identify anomalies and improve endpoint security posture.
+    
+---
+
+### **Brute Force Attack Detection with TCPDump**
+
+- Analyzed DNS and HTTP traffic logs using `tcpdump` to detect patterns indicative of brute force attacks.
+- Identified suspicious traffic behavior, contributing to early threat detection and response planning.
+    
+---
+
+### **Network Traffic Analysis with Wireshark**
+
+- Interpreted TCP/HTTP packets from a Wireshark capture to examine and understand network activity.
+- Gained insights into protocol behavior and network anomalies relevant to cybersecurity incident analysis.
+
 ## Tools
 
 
