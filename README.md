@@ -19,8 +19,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Development & Labs:
- 
----
 
 ### **File Permissions in Linux**
 
